@@ -1,7 +1,7 @@
 # Combined-Distributions
 The Final Step of the Ejecta Search Process
 
-Basin.txt and Sample_Sites are the input files
+Basin.txt and Sample_Sites.txt are the input files
 
 0_Prime_Data is the input raw data
 
