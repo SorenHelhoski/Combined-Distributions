@@ -2,6 +2,7 @@
 The Final Step of the Ejecta Search Process
 
 Basin.txt is the input file
+
 0_Prime_Data is the input raw data
 
 To run the pipeline...
