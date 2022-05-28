@@ -1,6 +1,11 @@
 # Combined-Distributions
 The Final Step of the Ejecta Search Process
 
+Basin.txt is the input file
+0_Prime_Data is the input raw data
+
+To run the pipeline...
+
 Run every cell in order :  1_Basin_Map.ipynb
 
 Run every cell in order : 2_Generate_KDE.ipynb
