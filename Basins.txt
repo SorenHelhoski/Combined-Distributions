@@ -1,26 +1,39 @@
-================================================================
-                       Large Impact Basins                     
-================================================================
-         Name       Diameter [km]        °N             °E
-----------------------------------------------------------------
-LB:   Moscoviense  :      276      :    27.3    :     147.9
-LB:   Orientale    :      294      :   -19.4    :     -92.8
-LB:   Bailly       :      303      :   -66.8    :     -69.4
-LB:   Schrodinger  :      312      :   -75      :     132.4
-LB:   Planck       :      320      :   -57.27   :     135.34
-LB:   Mendeleev    :      325      :     5.38   :     141
-LB:   Birkoff      :      330      :    58.7    :     146.1
-LB:   Harkhebi     :      337      :    39.6    :      98.3
-LB:   Nectaris     :      340      :   -15.2    :      34.6
-LB:   Poincare     :      346      :   -56.86   :     163.99
-LB:   Lorentz      :      378      :    32.6    :     -95.3
-LB:   Humorum      :      420      :   -24.4    :     -38.6
-LB:   Korolev      :      437      :    -4.0    :    -157.4
-LB:   Apollo       :      537      :   -36.1    :    -151.8
-LB:   Crisium      :      556      :    17      :      59.1
-LB:   Hertzsprung  :      570      :     1.37   :    -128.66
-LB:   Serenitatis  :      674      :    28      :      17.5
-LB:   Imbrium      :     1145      :    32.8    :     -15.6
-LB:   SPoleAitkens :     2500      :   -53      :     169
+=========================================================================================================
+                                                 Basins                     
+=========================================================================================================
+         Name     : N[degrees] : E[degrees] : Diameter[km] :  age [Ga]  :      color      :
+---------------------------------------------------------------------------------------------------------
+
+B: SPoleAitkens   :     -53    :    -169    :     2500     :    4.312   :  lightgrey      :
+B: Nubium         :     -21    :     -17    :      690     :    4.31    :  grey           :
+B: Birkoff        :      58    :    -146    :      330     :    4.29    :  purple         :
+B: Ingenii        :     -33    :     165    :      320     :    4.28    :  plum           :
+B: AmundsenG      :     -81    :     123    :      340     :    4.26    :  greenyellow    :
+B: CrugerS        :     -16    :     -67    :      270     :    4.26    :  powderblue     :
+B: Smythii        :      -2    :      87    :      880     :    4.26    :  yellow         :
+B: FitzgeraldJ    :      25    :    -170    :      600     :    4.26    :  darkorange     :
+B: SchillerZ      :     -56    :     -45    :      360     :    4.24    :  mediumpurple   :
+B: DirichletJ     :      13    :    -158    :      450     :    4.23    :  mediumseagreen :
+B: CoulombS       :      52    :    -123    :      670     :    4.23    :  brown          :
+B: Poincare       :     -57    :     164    :      310     :    4.23    :  magenta        :
+B: Serenitatis    :      27    :      18    :      920     :    4.22    :  green          :
+B: Lorentz        :      35    :     -97    :      350     :    4.20    :  red            :
+B: Nectaris       :     -15    :      35    :      890     :    4.17    :  grey           :
+B: Grimaldi       :      -5    :     -68    :      460     :    4.14    :  teal           :
+B: FreundlichS    :      19    :     176    :      580     :    4.14    :  thistle        :
+B: Apollo         :     -36    :    -151    :      490     :    4.14    :  gold           :
+B: Mendeleev      :       5    :     141    :      330     :    4.13    :  tomato         :
+B: Planck         :     -57    :     135    :      320     :    4.13    :  palegreen      :
+B: MendelR        :     -50    :     -94    :      650     :    4.13    :  rosybrown      :
+B: Korolev        :      -4    :    -157    :      420     :    4.11    :  lawngreen      :
+B: Humorum        :     -24    :     -39    :      820     :    4.09    :  violet         :
+B: Hertzsprung    :       1    :    -129    :      570     :    4.09    :  darkgray       :
+B: Moscoviense    :      27    :     148    :      420     :    4.09    :  cornflowerblue :
+B: Humboldtainum  :      57    :      82    :      620     :    4.08    :  cyan           :
+B: Crisium        :      16    :      59    :     1080     :    4.07    :  orange         :
+B: Imbrium        :      35    :     -15    :     1320     :    3.87    :  tan            :
+#B: Imbrium        :      35    :     -15    :     1320     :    4.311   :  tan            :
+B: Schrodinger    :     -75    :     133    :      330     :    3.86    :  blue           :
+B: Orientale      :     -20    :     -95    :      940     :    3.81    :  orangered      :
 
 END

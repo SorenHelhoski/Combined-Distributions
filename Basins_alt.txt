@@ -1,0 +1,39 @@
+=========================================================================================================
+                                                 Basins                     
+=========================================================================================================
+         Name     : N[degrees] : E[degrees] : Diameter[km] : age [rank] :      color      :
+---------------------------------------------------------------------------------------------------------
+
+B: SPoleAitkens   :     -53    :    -169    :     2500     :    30.     :  lightgrey      :
+B: CoulombS       :      52    :    -123    :      670     :    29.     :  brown          :
+B: DirichletJ     :      13    :    -158    :      450     :    28.     :  mediumseagreen :
+B: CrugerS        :     -16    :     -67    :      270     :    27.     :  powderblue     :
+B: Smythii        :      -2    :      87    :      880     :    26.     :  yellow         :
+B: SchillerZ      :     -56    :     -45    :      360     :    25.     :  mediumpurple   :
+B: AmundsenG      :     -81    :     123    :      340     :    24.     :  greenyellow    :
+B: Nubium         :     -21    :     -17    :      690     :    23.     :  grey           :
+B: Poincare       :     -57    :     164    :      310     :    22.     :  magenta        :
+B: Lorentz        :      35    :     -97    :      350     :    21.     :  red            :
+B: FitzgeraldJ    :      25    :    -170    :      600     :    20.     :  darkorange     :
+B: Birkoff        :      58    :    -146    :      330     :    19.     :  purple         :
+B: Ingenii        :     -33    :     165    :      320     :    18.     :  plum           :
+B: Serenitatis    :      27    :      18    :      920     :    17.     :  green          :
+B: Apollo         :     -36    :    -151    :      490     :    16.     :  gold           :
+B: FreundlichS    :      19    :     176    :      580     :    15.     :  thistle        :
+B: Nectaris       :     -15    :      35    :      890     :    14.     :  grey           :
+B: Korolev        :      -4    :    -157    :      420     :    13.     :  lawngreen      :
+B: Mendeleev      :       5    :     141    :      330     :    12.     :  tomato         :
+B: Hertzsprung    :       1    :    -129    :      570     :    11.     :  darkgray       :
+B: Grimaldi       :      -5    :     -68    :      460     :    10.     :  teal           :
+B: Planck         :     -57    :     135    :      320     :     9.     :  palegreen      :
+B: Moscoviense    :      27    :     148    :      420     :     8.     :  cornflowerblue :
+B: Crisium        :      16    :      59    :     1080     :     7.     :  orange         :
+B: Humorum        :     -24    :     -39    :      820     :     6.     :  violet         :
+B: Humboldtainum  :      57    :      82    :      620     :     5.     :  cyan           :
+B: Imbrium        :      35    :     -15    :     1320     :     4.     :  tan            :
+B: Schrodinger    :     -75    :     133    :      330     :     3.     :  blue           :
+B: Orientale      :     -20    :     -95    :      940     :     2.     :  orangered      :
+
+#B: MendelR        :     -50    :     -94    :      650     :    ----    :  rosybrown      :
+
+END
